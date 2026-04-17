@@ -96,6 +96,7 @@ Who has 192.168.1.1? Tell 192.168.1.10
 | 192.168.1.10 | 11:22:33:44:55:66 |
 
 ---
+https://github.com/aditya-bhatt0/proxy-tor-vpn/blob/2c255299669226136da8b30a3e84d9d92d5f02e0/Screenshot%202026-04-17%20225832.png
 
 # 🔹 5. Useful Commands
 
